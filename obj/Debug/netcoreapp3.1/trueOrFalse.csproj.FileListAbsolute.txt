@@ -1,0 +1,13 @@
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\trueOrFalse\bin\Debug\netcoreapp3.1\trueOrFalse.exe
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\trueOrFalse\bin\Debug\netcoreapp3.1\trueOrFalse.deps.json
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\trueOrFalse\bin\Debug\netcoreapp3.1\trueOrFalse.runtimeconfig.json
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\trueOrFalse\bin\Debug\netcoreapp3.1\trueOrFalse.runtimeconfig.dev.json
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\trueOrFalse\bin\Debug\netcoreapp3.1\trueOrFalse.dll
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\trueOrFalse\bin\Debug\netcoreapp3.1\trueOrFalse.pdb
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\trueOrFalse\obj\Debug\netcoreapp3.1\trueOrFalse.csprojAssemblyReference.cache
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\trueOrFalse\obj\Debug\netcoreapp3.1\trueOrFalse.AssemblyInfoInputs.cache
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\trueOrFalse\obj\Debug\netcoreapp3.1\trueOrFalse.AssemblyInfo.cs
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\trueOrFalse\obj\Debug\netcoreapp3.1\trueOrFalse.csproj.CoreCompileInputs.cache
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\trueOrFalse\obj\Debug\netcoreapp3.1\trueOrFalse.dll
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\trueOrFalse\obj\Debug\netcoreapp3.1\trueOrFalse.pdb
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\trueOrFalse\obj\Debug\netcoreapp3.1\trueOrFalse.genruntimeconfig.cache
